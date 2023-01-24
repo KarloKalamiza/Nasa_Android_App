@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Nasa</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet">No internet</string>
+    <string name="application_made_by_algebra_students">Application made by Algebra Students</string>
+    <string name="items">Items</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="really">Really exit app?</string>
+    <string name="cancle">Cancel</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="explanation">Explanation</string>
+    <string name="developer">Developer</string>
+    <string name="instituion">Instituion</string>
+    <string name="universe">Universe</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Universe">Universe</string>
+    <string name="Developer">Developer</string>
+    <string name="Institution">Institution</string>
+    <string name="karlo_kalamiza">Karlo Kalamiza</string>
+    <string name="email">kkalami@racunarstvo.hr</string>
+    <string name="phone_number">0987654321</string>
+    <string name="visoko_u_ili_te_algebra">Visoko učilište Algebra</string>
+    <string name="skills">Skills</string>
+    <string name="contact_me">Contact me!</string>
+    <string name="shcool_year">Shcool year</string>
+    <string name="_3">3</string>
+    <string name="position">Position</string>
+    <string name="years_of_experience">Years of experience</string>
+    <string name="_1">1</string>
+    <string name="jarunska_ulica">Jarunska ulica</string>
+    <string name="zagreb">Zagreb</string>
+    <string name="zaposlenici">Zaposlenici</string>
+    <string name="gdje_se_nalazimo">Gdje se nalazimo?</string>
+    <string name="studiji">Studiji</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="sign_up">Sign Up!</string>
+</resources>

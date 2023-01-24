@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/items"
+        android:icon="@drawable/items"
+        android:id="@+id/menuItems" />
+    <item
+        android:title="@string/about"
+        android:icon="@drawable/about"
+        android:id="@+id/menuAbout" />
+    <item
+        android:title="@string/universe"
+        android:icon="@drawable/universe"
+        android:id="@+id/menuUniverse" />
+    <item
+        android:title="@string/developer"
+        android:icon="@drawable/developericon"
+        android:id="@+id/menuDeveloper" />
+    <item
+        android:title="@string/instituion"
+        android:icon="@drawable/instituion"
+        android:id="@+id/menuInstitution" />
+</menu>
