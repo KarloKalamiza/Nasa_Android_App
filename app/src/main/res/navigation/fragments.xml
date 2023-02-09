@@ -35,4 +35,10 @@
         android:label="@string/Institution"
         tools:layout="@layout/fragment_institution"/>
 
+    <fragment
+        android:id="@+id/menuMap"
+        android:name="hr.algebra.nasa.MapsFragment"
+        android:label="Map"
+        tools:layout="@layout/fragment_maps"/>
+
 </navigation>

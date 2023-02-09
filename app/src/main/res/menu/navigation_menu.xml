@@ -21,4 +21,9 @@
         android:title="@string/instituion"
         android:icon="@drawable/instituion"
         android:id="@+id/menuInstitution" />
+
+    <item
+        android:title="@string/map"
+        android:icon="@drawable/mapicon"
+        android:id="@+id/menuMap" />
 </menu>

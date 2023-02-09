@@ -41,4 +41,5 @@
     <string name="sign_in">Sign In</string>
     <string name="not_a_member">Not a member?</string>
     <string name="sign_up">Sign Up!</string>
+    <string name="map">Map</string>
 </resources>

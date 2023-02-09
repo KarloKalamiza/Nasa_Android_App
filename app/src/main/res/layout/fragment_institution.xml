@@ -75,39 +75,5 @@
             android:layout_marginBottom="30dp"
             android:layout_width="match_parent"
             android:layout_height="600dp"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
-            android:layout_marginBottom="10dp"
-            android:gravity="center"
-            android:padding="8dp"
-            android:text="@string/gdje_se_nalazimo"
-            android:fontFamily="cursive"
-            android:textAlignment="center"
-            android:textColor="@android:color/holo_red_dark"
-            android:textSize="30sp"
-            android:textStyle="bold" />
-
-        <com.airbnb.lottie.LottieAnimationView
-            android:id="@+id/mapAnim"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:lottie_autoPlay="true"
-            app:lottie_loop="true"
-            app:lottie_rawRes="@raw/map" />
-
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <fragment
-                android:id="@+id/map"
-                android:name="com.google.android.gms.maps.SupportMapFragment"
-                android:layout_width="300dp"
-                android:layout_height="300dp" />
-        </LinearLayout>
-
     </LinearLayout>
 </ScrollView>
